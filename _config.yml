@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Sarene Choudhury
+title: Sarene Choudhury HM
 
 # Your name to show in the footer
 author: Sarene Choudhury
@@ -39,10 +39,10 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "sarene_choudhury@horacemann.org"
+# facebook: deanattali
+  github: sarene-choudhury
+# twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -69,14 +69,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "SareneChoudhury.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -96,14 +96,14 @@ feed_show_tags: true
 
 navbar-col: "#40E0D0"
 navbar-text-col: "#00CED1"
-navbar-border-col: "#DDDDDD"
+navbar-border-col: "#00CED1"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-text-col: "#00CED1"
+footer-link-col: "#00CED1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
